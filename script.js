@@ -1,4 +1,4 @@
-function firstWord(s) {
+function firstWord(str) {
   // your code here
 	  // Trim any leading or trailing whitespace from the input string
     str = str.trim();
@@ -20,4 +20,4 @@ function firstWord(s) {
 // // Do not change the code below
 
 const s = prompt("Enter String:");
-alert(firstWord(s));
+alert(firstWord(str));
